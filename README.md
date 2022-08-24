@@ -3,7 +3,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href=.../> Qual é o seu animal?</a>
+o Homepage:  <a href=https://igoroliveiranunes.github.io/Manipulando-Atributos//> Qual é o seu animal?</a>
 
 !
 # Sobre
@@ -11,7 +11,7 @@ o Homepage:  <a href=.../> Qual é o seu animal?</a>
 <p>O</p>
 
 # Tecnologias
---<a href="https://www.javascript.com">JAVASCRIPT</a>
+--<a href="https://www.javascript.com">JAVASCRIPT</a><br>
 --<a href="https://www.learn-html.org">HTML</a><br>
 --<a href="https://www.css.org">CSS</a><br>
 
