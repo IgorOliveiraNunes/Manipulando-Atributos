@@ -6,8 +6,8 @@ document.querySelector('.imagem').setAttribute('data-animal', animalname)
 function pegaranimal(){
     let animal = document.querySelector('.imagem').getAttribute('data-animal')
     if (animal == 'Mico-leão dourado') {
-        alert('Fique aonde está, que a policia esta entrando na sua casa!!!')
-        alert('É serio mico leão está em extinção.')
+        alert('Fique aonde está,já direcionamos uma viatura pra sua CASA!!')
+        alert('É sério mico-leão não é um animal de estimação!!.')
     }else {
         alert('Seu animal é um '+animal)
     }
